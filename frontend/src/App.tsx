@@ -11,10 +11,10 @@ const lightTheme = createTheme({
   palette: {
     mode: "light",
     primary: {
-      main: "#1976d2", // Blue for primary
+      main: "#ff4500", // Orange for primary
     },
     secondary: {
-      main: "#ff4081", // Pink for secondary
+      main: "#000000", // Black for secondary
     },
   },
   shape: {
